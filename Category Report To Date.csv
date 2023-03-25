@@ -1,0 +1,260 @@
+Date,Chk #,Transaction Payee (Income),Note,Memo,Category,Account,Amount
+FirstTech:Check Deposit (Begin)
+1/11/23,,Shared Branch Mobile Deposit,,,FirstTech:Check Deposit,Mary Checking,$480.00
+FirstTech:Check Deposit Total,"","","","","","",$480.00
+FirstTech:Interest Income (Begin)
+1/31/23,,Credit Dividend,,,FirstTech:Interest Income,John Instant Access,$0.01
+1/31/23,,Credit Dividend,,,FirstTech:Interest Income,Mary Instant Access,$0.02
+2/28/23,,Credit Dividend,,,FirstTech:Interest Income,John Instant Access,$0.01
+2/28/23,,Credit Dividend,,,FirstTech:Interest Income,Mary Instant Access,$0.02
+FirstTech:Interest Income Total,"","","","","","",$0.06
+SS John (Begin)
+1/24/23,,SSA  TREAS 310  - XXSOC SEC,,,SS John,Mary Checking,"$2,788.00"
+2/21/23,,SSA  TREAS 310  - XXSOC SEC,,,SS John,Mary Checking,"$2,788.00"
+3/21/23,,SSA  TREAS 310  - XXSOC SEC,,,SS John,Mary Checking,"$2,788.00"
+SS John Total,"","","","","","","$8,364.00"
+SS Mary (Begin)
+1/24/23,,SSA  TREAS 310  - XXSOC SEC,,,SS Mary,Mary Checking,"$1,055.00"
+2/21/23,,SSA  TREAS 310  - XXSOC SEC,,,SS Mary,Mary Checking,"$1,055.00"
+3/21/23,,SSA  TREAS 310  - XXSOC SEC,,,SS Mary,Mary Checking,"$1,055.00"
+SS Mary Total,"","","","","","","$3,165.00"
+
+Date,Chk #,Transaction Payee (Expense),Note,Memo,Category,Account,Amount
+Auto:Fuel (Begin)
+2/9/23,,930009 COSTCO GAS #000        AL,,,Auto:Fuel,Mary Checking,-$42.57
+Auto:Fuel Total,"","","","","","",-$42.57
+Dining:Ava Roasteria (Begin)
+1/3/23,,AVA ROASTERIA ORENCO L   HILLSBO,,,Dining:Ava Roasteria,Platinum MasterCard,-$8.60
+1/10/23,,AVA ROASTERIA ORENCO L   HILLSBO,,,Dining:Ava Roasteria,Platinum MasterCard,-$11.80
+Dining:Ava Roasteria Total,"","","","","","",-$20.40
+Dining:Bethanys Table (Begin)
+3/20/23,,BETHANYS TABLE           PORTLAN,,,Dining:Bethanys Table,Platinum MasterCard,-$7.00
+Dining:Bethanys Table Total,"","","","","","",-$7.00
+Dining:Black Bear (Begin)
+1/23/23,,BB DINNER PORTLAND 231   PORTLAN,,,Dining:Black Bear,Platinum MasterCard,-$65.35
+Dining:Black Bear Total,"","","","","","",-$65.35
+Dining:Cloud City (Begin)
+1/23/23,,SQ *CLOUD CITY ICE CRE   PORTLAN,,,Dining:Cloud City,Platinum MasterCard,-$14.60
+Dining:Cloud City Total,"","","","","","",-$14.60
+Dining:Cooper River (Begin)
+2/8/23,,COPPER RIVER RESTAURAN   HILLSBO,,,Dining:Cooper River,Platinum MasterCard,-$40.50
+Dining:Cooper River Total,"","","","","","",-$40.50
+Dining:CornelFarmCafe (Begin)
+3/20/23,,SQ *CORNELL FARM CAFE    PORTLAN,,,Dining:CornelFarmCafe,Platinum MasterCard,-$16.80
+Dining:CornelFarmCafe Total,"","","","","","",-$16.80
+Dining:Joy Wok Restaurant (Begin)
+2/23/23,,JOY WOK RESTAURANT       PORTLAN,,,Dining:Joy Wok Restaurant,Platinum MasterCard,-$33.45
+Dining:Joy Wok Restaurant Total,"","","","","","",-$33.45
+Dining:Khao San (Begin)
+2/1/23,,KHAO SAN - BETHANY       PORTLAN,,,Dining:Khao San,Platinum MasterCard,-$28.00
+Dining:Khao San Total,"","","","","","",-$28.00
+Dining:Panera Bread (Begin)
+3/4/23,,PANERA BREAD #202153 O   503-643,,,Dining:Panera Bread,Platinum MasterCard,-$28.78
+3/21/23,,PANERA BREAD #202153 O   503-643,,,Dining:Panera Bread,Platinum MasterCard,-$28.78
+Dining:Panera Bread Total,"","","","","","",-$57.56
+FirstTech:Charge (Begin)
+2/21/23,,Overdraft/Return Item Fee,,,FirstTech:Charge,Mary Checking,-$33.00
+FirstTech:Charge Total,"","","","","","",-$33.00
+FirstTech:Credit Card Interest (Begin)
+1/19/23,,Interest Charge on Cash A,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+1/19/23,,Interest Charge on Purcha,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+2/16/23,,Interest Charge on Cash A,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+2/16/23,,Interest Charge on Purcha,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+3/18/23,,Interest Charge on Cash A,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+3/18/23,,Interest Charge on Purcha,,,FirstTech:Credit Card Interest,Platinum MasterCard,$0.00
+FirstTech:Credit Card Interest Total,"","","","","","",$0.00
+Gifts:Presents etc (Begin)
+1/5/23,,AMZN MKTP US*EJ8SH9CZ3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*EJ8SH9CZ3   AMZN.COM/BILLWA,,Gifts:Presents etc,Platinum MasterCard,-$29.36
+1/20/23,1820,Check,Check,,Gifts:Presents etc,Mary Checking,-$25.00
+Gifts:Presents etc Total,"","","","","","",-$54.36
+Groceries:Amazon (Begin)
+1/6/23,,AMZN MKTP US*EI2S43VX3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*EI2S43VX3   AMZN.COM/BILLWA,,Groceries:Amazon,Platinum MasterCard,-$25.99
+1/6/23,,AMZN MKTP US*AP8QX9UM3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*AP8QX9UM3   AMZN.COM/BILLWA,,Groceries:Amazon,Platinum MasterCard,-$66.74
+1/6/23,,AMZN MKTP US*C89R40SK3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*C89R40SK3   AMZN.COM/BILLWA,,Groceries:Amazon,Platinum MasterCard,-$46.99
+1/10/23,,AMZN MKTP US*QO5XR1F73   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*QO5XR1F73   AMZN.COM/BILLWA,,Groceries:Amazon,Platinum MasterCard,-$49.80
+1/16/23,,AMZN MKTP US*OU6AB0O83   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*OU6AB0O83   AMZN.COM/BILLWA,,Groceries:Amazon,Platinum MasterCard,-$34.34
+Groceries:Amazon Total,"","","","","","",-$223.86
+Groceries:Costco (Begin)
+1/23/23,,990009 COSTCO WHSE #00        AL,POS Transaction--990009 COSTCO WHSE #00        ALOHA        ORUS,,Groceries:Costco,Mary Checking,-$133.99
+2/9/23,,990009 COSTCO WHSE #00        AL,POS Transaction--990009 COSTCO WHSE #00        ALOHA        ORUS,,Groceries:Costco,Mary Checking,-$93.33
+Groceries:Costco Total,"","","","","","",-$227.32
+Groceries:FredMeyer (Begin)
+1/7/23,,FRED-MEYER #0482         BEAVERT,,,Groceries:FredMeyer,Platinum MasterCard,-$11.98
+1/10/23,,FRED-MEYER #0482         BEAVERT,,,Groceries:FredMeyer,Platinum MasterCard,-$28.54
+1/30/23,,FRED-MEYER #0482         BEAVERT,,,Groceries:FredMeyer,Platinum MasterCard,-$18.97
+3/6/23,,FRED-MEYER #0482         BEAVERT,,,Groceries:FredMeyer,Platinum MasterCard,-$49.52
+3/24/23,,FRED-MEYER #0482         BEAVERT,,,Groceries:FredMeyer,Platinum MasterCard,-$20.60
+Groceries:FredMeyer Total,"","","","","","",-$129.61
+Groceries:QFC (Begin)
+3/7/23,,QFC #5201                PORTLAN,,,Groceries:QFC,Platinum MasterCard,-$19.98
+Groceries:QFC Total,"","","","","","",-$19.98
+Groceries:Target (Begin)
+1/28/23,,TARGET        00009100   BEAVERT,,,Groceries:Target,Platinum MasterCard,-$14.41
+Groceries:Target Total,"","","","","","",-$14.41
+Groceries:TraderJoe (Begin)
+1/18/23,,TRADER JOES #141  QPS   BEAVERTO,Ext Credit Card Debit--TRADER JOES #141  QPS   BEAVERTON    OR,,Groceries:TraderJoe,Platinum MasterCard,-$91.22
+1/30/23,,TRADER JOES #141  QPS   BEAVERTO,Ext Credit Card Debit--TRADER JOES #141  QPS   BEAVERTON    OR,,Groceries:TraderJoe,Platinum MasterCard,-$36.38
+Groceries:TraderJoe Total,"","","","","","",-$127.60
+Groceries:Winco (Begin)
+1/12/23,,90739706 WINCO #01 3025 SW Ceda,POS Transaction--90739706 WINCO #01 3025 SW Ceda Beaverton    ORUS,,Groceries:Winco,Mary Checking,-$172.32
+1/31/23,,90739706 WINCO #01 3025 SW Ceda,POS Transaction--90739706 WINCO #01 3025 SW Ceda Beaverton    ORUS,,Groceries:Winco,Mary Checking,-$160.93
+2/15/23,,90739706 WINCO #01 3025 SW Ceda,POS Transaction--90739706 WINCO #01 3025 SW Ceda Beaverton    ORUS,,Groceries:Winco,Mary Checking,-$171.46
+3/2/23,,90739706 WINCO #01 3025 SW Ceda,POS Transaction--90739706 WINCO #01 3025 SW Ceda Beaverton    ORUS,,Groceries:Winco,Mary Checking,-$166.97
+3/20/23,,90739706 WINCO #01 3025 SW Ceda,POS Transaction--90739706 WINCO #01 3025 SW Ceda Beaverton    ORUS,,Groceries:Winco,Mary Checking,-$181.01
+Groceries:Winco Total,"","","","","","",-$852.69
+Insurance:Home AutoPay (Begin)
+3/16/23,,STATE FARM  INSURANCE    8009566,,,Insurance:Home AutoPay,Platinum MasterCard,-$714.00
+Insurance:Home AutoPay Total,"","","","","","",-$714.00
+Internet:Adobe AutoPay (Begin)
+1/12/23,,ADOBE PHOTOGPHY PLAN     4085366,Ext Credit Card Debit--ADOBE PHOTOGPHY PLAN     4085366000   CA,,Internet:Adobe AutoPay,Platinum MasterCard,-$9.99
+1/19/23,,ADOBE PRODUCTS           4085366,Ext Credit Card Debit--ADOBE PRODUCTS           4085366000   CA,,Internet:Adobe AutoPay,Platinum MasterCard,-$9.99
+Internet:Adobe AutoPay Total,"","","","","","",-$19.98
+Internet:Apple AutoPay (Begin)
+1/12/23,,APPLE.COM/BILL           1111111,Ext Credit Card Debit--APPLE.COM/BILL           1111111111   CA,,Internet:Apple AutoPay,Platinum MasterCard,-$3.99
+1/18/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Internet:Apple AutoPay,Platinum MasterCard,-$16.99
+1/18/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Internet:Apple AutoPay,Platinum MasterCard,-$7.99
+Internet:Apple AutoPay Total,"","","","","","",-$28.97
+Internet:ATT Wireless AutoPay (Begin)
+1/21/23,,ATT* BILL PAYMENT        8003310,,,Internet:ATT Wireless AutoPay,Platinum MasterCard,-$137.29
+2/21/23,,ATT* BILL PAYMENT        8003310,,,Internet:ATT Wireless AutoPay,Platinum MasterCard,-$137.31
+3/21/23,,ATT* BILL PAYMENT        8003310,,,Internet:ATT Wireless AutoPay,Platinum MasterCard,-$137.31
+Internet:ATT Wireless AutoPay Total,"","","","","","",-$411.91
+Internet:GitHub AutoPay (Begin)
+1/27/23,,GITHUB                   SAN FRA,,,Internet:GitHub AutoPay,Platinum MasterCard,-$4.00
+2/27/23,,GITHUB                   SAN FRA,,,Internet:GitHub AutoPay,Platinum MasterCard,-$4.00
+Internet:GitHub AutoPay Total,"","","","","","",-$8.00
+Internet:Netflix AutoPay (Begin)
+1/20/23,,NETFLIX.COM              NETFLIX,Ext Credit Card Debit--NETFLIX.COM              NETFLIX.COM  CA,,Internet:Netflix AutoPay,Platinum MasterCard,-$19.99
+Internet:Netflix AutoPay Total,"","","","","","",-$19.99
+Internet:Xfinity AutoPay (Begin)
+1/9/23,,COMCAST CABLE COMM       800-COM,Ext Credit Card Debit--COMCAST CABLE COMM       800-COMCAST  OR,,Internet:Xfinity AutoPay,Platinum MasterCard,-$75.00
+Internet:Xfinity AutoPay Total,"","","","","","",-$75.00
+Medical:MedicareJohn (Begin)
+1/25/23,,Medicare,,,Medical:MedicareJohn,Exernal Cash Transactions,-$164.90
+2/22/23,,Medicare,,,Medical:MedicareJohn,Exernal Cash Transactions,-$164.90
+3/22/23,,Medicare,,,Medical:MedicareJohn,Exernal Cash Transactions,-$164.90
+Medical:MedicareJohn Total,"","","","","","",-$494.70
+Medical:MedicareMary (Begin)
+1/25/23,,Medicare,,,Medical:MedicareMary,Exernal Cash Transactions,-$164.90
+2/22/23,,Medicare,,,Medical:MedicareMary,Exernal Cash Transactions,-$164.90
+3/22/23,,Medicare,,,Medical:MedicareMary,Exernal Cash Transactions,-$164.90
+Medical:MedicareMary Total,"","","","","","",-$494.70
+Medical:Prescriptions (Begin)
+1/2/23,,PPS-PHARMACY #0249       800-552,Ext Credit Card Debit--PPS-PHARMACY #0249       800-552-6694 OR,,Medical:Prescriptions,Platinum MasterCard,-$10.00
+1/13/23,,PPS-PHARMACY #0249       800-552,Ext Credit Card Debit--PPS-PHARMACY #0249       800-552-6694 OR,,Medical:Prescriptions,Platinum MasterCard,-$10.00
+Medical:Prescriptions Total,"","","","","","",-$20.00
+Medical:Services (Begin)
+2/10/23,,KAISER MEMBERSHIP SERV   PORTLAN,Ext Credit Card Debit--KAISER MEMBERSHIP SERV   PORTLAND     OR,,Medical:Services,Platinum MasterCard,-$450.00
+Medical:Services Total,"","","","","","",-$450.00
+Memberships:Consumer Reports (Begin)
+2/3/23,,CONSUMERREPORTS.ORG      800-333,,,Memberships:Consumer Reports,Platinum MasterCard,-$39.00
+Memberships:Consumer Reports Total,"","","","","","",-$39.00
+Memberships:Membership OPB AutoPay (Begin)
+1/23/23,,OPB Membership 2913437603949 - 8,,,Memberships:Membership OPB AutoPay,Mary Checking,-$15.00
+2/21/23,,OPB Membership 2913437603949 - 8,,,Memberships:Membership OPB AutoPay,Mary Checking,$0.00
+3/21/23,,OPB Membership 2913437603949 - 8,,,Memberships:Membership OPB AutoPay,Mary Checking,-$15.00
+Memberships:Membership OPB AutoPay Total,"","","","","","",-$30.00
+Personal Care (Begin)
+1/2/23,,AMZN MKTP US*WF29P6PL3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*WF29P6PL3   AMZN.COM/BILLWA,,Personal Care,Platinum MasterCard,-$4.98
+1/4/23,1818,Check,Check,,Personal Care,Mary Checking,-$75.00
+1/4/23,1720,Check,Check,,Personal Care,New John Checking,-$45.00
+1/16/23,,AMZN MKTP US*QB8OL7CL3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*QB8OL7CL3   AMZN.COM/BILLWA,,Personal Care,Platinum MasterCard,-$16.99
+1/18/23,1721,Check,Check,,Personal Care,New John Checking,-$45.00
+1/21/23,,AMAZON.COM*B92P82FJ3     AMZN.COA,Ext Credit Card Debit--AMAZON.COM*B92P82FJ3     AMZN.COM/BILLWA,,Personal Care,Platinum MasterCard,-$34.99
+2/7/23,1722,Check,Check,,Personal Care,New John Checking,-$45.00
+3/8/23,1821,Check,Check,,Personal Care,Mary Checking,-$150.00
+3/21/23,1725,Check,Check,,Personal Care,New John Checking,-$45.00
+Personal Care Total,"","","","","","",-$461.96
+Pets/Pet Care (Begin)
+1/14/23,,PETCO 251     63502512   BEAVERT,,,Pets/Pet Care,Platinum MasterCard,-$21.99
+1/28/23,,PETCO 251     63502512   BEAVERT,,,Pets/Pet Care,Platinum MasterCard,-$33.99
+Pets/Pet Care Total,"","","","","","",-$55.98
+Uncategorized Expenses (Begin)
+1/23/23,,AMAZON.COM*265FY4L03 A   AMZN.CO,Ext Credit Card Debit--AMAZON.COM*265FY4L03 A   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$14.98
+1/23/23,,FRED MEYER FUEL 9035     BEAVERT,Ext Credit Card Debit--FRED MEYER FUEL 9035     BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$43.36
+1/23/23,,COLUMBIA NW HEATING      SCAPPOO,Ext Credit Card Debit--COLUMBIA NW HEATING      SCAPPOOSE    OR,,Uncategorized Expenses,Platinum MasterCard,-$349.00
+1/26/23,,RED ROBIN NO 542         VANCOUV,Ext Credit Card Debit--RED ROBIN NO 542         VANCOUVER    WA,,Uncategorized Expenses,Platinum MasterCard,-$21.71
+1/26/23,,PPS-PHARMACY #0249       800-552,Ext Credit Card Debit--PPS-PHARMACY #0249       800-552-6694 OR,,Uncategorized Expenses,Platinum MasterCard,-$10.00
+1/27/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+1/27/23,,PAYPRO NEKTONY           8883174,Ext Credit Card Debit--PAYPRO NEKTONY           8883174868   NY,,Uncategorized Expenses,Platinum MasterCard,-$9.95
+1/28/23,,AMAZON.COM*FE4N48CV3     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*FE4N48CV3     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$17.95
+1/28/23,,AMAZON.COM*J30FO9PG3     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*J30FO9PG3     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$10.49
+1/28/23,,SQ *PORTLAND GRAND CEN   PORTLAN,Ext Credit Card Debit--SQ *PORTLAND GRAND CEN   PORTLAND     OR,,Uncategorized Expenses,Platinum MasterCard,-$20.70
+1/28/23,,AMAZON.COM*4H1EJ1SE3     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*4H1EJ1SE3     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$10.74
+1/28/23,,SQ *BRICKHAUS COFFEE     BEAVERT,Ext Credit Card Debit--SQ *BRICKHAUS COFFEE     BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$4.50
+1/30/23,,AMAZON.COM*711O49WC3     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*711O49WC3     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$13.88
+2/3/23,,AMZN MKTP US*HV79D8ND3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*HV79D8ND3   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$7.99
+2/4/23,,AMAZON.COM*FW04E2343 A   AMZN.CO,Ext Credit Card Debit--AMAZON.COM*FW04E2343 A   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$5.99
+2/4/23,,AMZN MKTP US*WN8GX6X33   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*WN8GX6X33   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$9.95
+2/6/23,,AMZN MKTP US*7Q92T3RW3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*7Q92T3RW3   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$19.95
+2/6/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$17.98
+2/6/23,,AMZN MKTP US*LD8W11YQ3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*LD8W11YQ3   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$23.99
+2/6/23,,AMZN MKTP US*PA9032W43   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*PA9032W43   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$31.41
+2/7/23,,ETSY.COM - NERDYCATHOM   BROOKLY,Ext Credit Card Debit--ETSY.COM - NERDYCATHOM   BROOKLYN     NY,,Uncategorized Expenses,Platinum MasterCard,-$72.61
+2/8/23,,AMZN MKTP US*4675X8P23   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*4675X8P23   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$33.30
+2/8/23,,AMZN MKTP US*Y12N81RO3   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*Y12N81RO3   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$29.99
+2/9/23,,COMCAST CABLE COMM       800-COM,Ext Credit Card Debit--COMCAST CABLE COMM       800-COMCAST  OR,,Uncategorized Expenses,Platinum MasterCard,-$75.00
+2/11/23,,TRADER JOES #141  QPS   BEAVERTO,Ext Credit Card Debit--TRADER JOES #141  QPS   BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$30.62
+2/11/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$3.99
+2/11/23,,AMAZON.COM*2A50M6E93     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*2A50M6E93     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$31.88
+2/13/23,,ADOBE PHOTOGPHY PLAN     4085366,Ext Credit Card Debit--ADOBE PHOTOGPHY PLAN     4085366000   CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+2/14/23,,POCKET                   SAN FRA,Ext Credit Card Debit--POCKET                   SAN FRANCISCOCA,,Uncategorized Expenses,Platinum MasterCard,-$4.99
+2/16/23,,HALLMARKVIDEOGREETINGS   KANSAS,Ext Credit Card Debit--HALLMARKVIDEOGREETINGS   KANSAS CITY  MO,,Uncategorized Expenses,Platinum MasterCard,-$4.99
+2/16/23,,AMZN MKTP US*HE4QZ8LP2   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*HE4QZ8LP2   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$12.93
+2/17/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$15.98
+2/17/23,,AMAZON.COM*HE1L04GX2     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*HE1L04GX2     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$11.99
+2/20/23,,ADOBE PRODUCTS           4085366,Ext Credit Card Debit--ADOBE PRODUCTS           4085366000   CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+2/20/23,,NETFLIX.COM              NETFLIX,Ext Credit Card Debit--NETFLIX.COM              NETFLIX.COM  CA,,Uncategorized Expenses,Platinum MasterCard,-$19.99
+2/23/23,,TRADER JOES #141  QPS   BEAVERTO,Ext Credit Card Debit--TRADER JOES #141  QPS   BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$52.28
+2/27/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+2/28/23,1724,Check,Check,,Uncategorized Expenses,New John Checking,-$45.00
+3/2/23,,AMAZON.COM*HD77Z0XU2     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*HD77Z0XU2     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$14.97
+3/2/23,,AMAZON.COM*HD6821XG1     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*HD6821XG1     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$10.49
+3/3/23,,SQ *PORTLAND GRAND CEN   PORTLAN,Ext Credit Card Debit--SQ *PORTLAND GRAND CEN   PORTLAND     OR,,Uncategorized Expenses,Platinum MasterCard,-$18.80
+3/4/23,,AMZN MKTP US*HD30G8U01   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*HD30G8U01   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$21.99
+3/6/23,,AMAZON.COM*H58YB2KP0 A   AMZN.CO,Ext Credit Card Debit--AMAZON.COM*H58YB2KP0 A   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$16.17
+3/6/23,,TST* THIRSTY LION GAST   TIGARD,Ext Credit Card Debit--TST* THIRSTY LION GAST   TIGARD       OR,,Uncategorized Expenses,Platinum MasterCard,-$31.30
+3/7/23,,AVA ROASTERIA HALL LLC   BEAVERT,Ext Credit Card Debit--AVA ROASTERIA HALL LLC   BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$9.00
+3/7/23,,AMZN MKTP US*H55TG93M2   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*H55TG93M2   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$4.99
+3/7/23,,AMAZON.COM*H54QW33D1     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*H54QW33D1     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$14.50
+3/9/23,,FRED MEYER FUEL 9035     BEAVERT,Ext Credit Card Debit--FRED MEYER FUEL 9035     BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$44.70
+3/9/23,,COMCAST CABLE COMM       800-COM,Ext Credit Card Debit--COMCAST CABLE COMM       800-COMCAST  OR,,Uncategorized Expenses,Platinum MasterCard,-$75.00
+3/13/23,,ADOBE PHOTOGPHY PLAN     4085366,Ext Credit Card Debit--ADOBE PHOTOGPHY PLAN     4085366000   CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+3/13/23,,TRADER JOES #141  QPS   BEAVERTO,Ext Credit Card Debit--TRADER JOES #141  QPS   BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$75.14
+3/13/23,,APPLE.COM/BILL           1111111,Ext Credit Card Debit--APPLE.COM/BILL           1111111111   CA,,Uncategorized Expenses,Platinum MasterCard,-$3.99
+3/13/23,,SQ *INSOMNIA COFFEE CO   HILLSBO,Ext Credit Card Debit--SQ *INSOMNIA COFFEE CO   HILLSBORO    OR,,Uncategorized Expenses,Platinum MasterCard,-$5.75
+3/14/23,,POCKET                   SAN FRA,Ext Credit Card Debit--POCKET                   SAN FRANCISCOCA,,Uncategorized Expenses,Platinum MasterCard,-$4.99
+3/17/23,,PET BARN                 PORTLAN,Ext Credit Card Debit--PET BARN                 PORTLAND     OR,,Uncategorized Expenses,Platinum MasterCard,-$7.30
+3/18/23,,AMAZON.COM*HC2CW3FN2     AMZN.CO,Ext Credit Card Debit--AMAZON.COM*HC2CW3FN2     AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$22.14
+3/18/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$16.99
+3/18/23,,APPLE.COM/BILL           866-712,Ext Credit Card Debit--APPLE.COM/BILL           866-712-7753 CA,,Uncategorized Expenses,Platinum MasterCard,-$7.99
+3/20/23,,ADOBE PRODUCTS           4085366,Ext Credit Card Debit--ADOBE PRODUCTS           4085366000   CA,,Uncategorized Expenses,Platinum MasterCard,-$9.99
+3/20/23,,NETFLIX.COM              NETFLIX,Ext Credit Card Debit--NETFLIX.COM              NETFLIX.COM  CA,,Uncategorized Expenses,Platinum MasterCard,-$19.99
+3/20/23,,TST* RADIO ROOM          PORTLAN,Ext Credit Card Debit--TST* RADIO ROOM          PORTLAND     OR,,Uncategorized Expenses,Platinum MasterCard,-$16.80
+3/20/23,,AMZN MKTP US*HC6RT19I0   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*HC6RT19I0   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$29.46
+3/20/23,,AMZN MKTP US*HC6FP3YG0   AMZN.CO,Ext Credit Card Debit--AMZN MKTP US*HC6FP3YG0   AMZN.COM/BILLWA,,Uncategorized Expenses,Platinum MasterCard,-$19.99
+3/20/23,,KINDLE SVCS*HC1SP0W80    888-802,Ext Credit Card Debit--KINDLE SVCS*HC1SP0W80    888-802-3080 WA,,Uncategorized Expenses,Platinum MasterCard,-$3.99
+3/24/23,,FRED MEYER FUEL 9035     BEAVERT,Ext Credit Card Debit--FRED MEYER FUEL 9035     BEAVERTON    OR,,Uncategorized Expenses,Platinum MasterCard,-$25.77
+Uncategorized Expenses Total,"","","","","","","-$1,672.20"
+Wilshire:Andrea Drury AutoPay (Begin)
+2/1/23,,ANDREA DRURY FIRST TECH FCU B -,ACH Debit--ANDREA DRURY FIRST TECH FCU B - BILL PAYMT,,Wilshire:Andrea Drury AutoPay,New John Checking,-$666.67
+3/1/23,,ANDREA DRURY FIRST TECH FCU B -,ACH Debit--ANDREA DRURY FIRST TECH FCU B - BILL PAYMT,,Wilshire:Andrea Drury AutoPay,New John Checking,-$666.67
+Wilshire:Andrea Drury AutoPay Total,"","","","","","","-$1,333.34"
+Wilshire:Electric AutoPay (Begin)
+1/14/23,,PORTLAND GENERAL ELECT   8005428,,,Wilshire:Electric AutoPay,Platinum MasterCard,-$152.59
+2/15/23,,PORTLAND GENERAL ELECT   8005428,,,Wilshire:Electric AutoPay,Platinum MasterCard,-$188.08
+3/16/23,,PORTLAND GENERAL ELECT   8005428,,,Wilshire:Electric AutoPay,Platinum MasterCard,-$162.25
+Wilshire:Electric AutoPay Total,"","","","","","",-$502.92
+Wilshire:Gas AutoPay (Begin)
+1/19/23,,NW NATURAL 8004224012    5032264,,,Wilshire:Gas AutoPay,Platinum MasterCard,-$117.21
+2/18/23,,NW NATURAL 8004224012    5032264,,,Wilshire:Gas AutoPay,Platinum MasterCard,-$105.11
+3/20/23,,NW NATURAL 8004224012    5032264,,,Wilshire:Gas AutoPay,Platinum MasterCard,-$101.28
+Wilshire:Gas AutoPay Total,"","","","","","",-$323.60
+Wilshire:HOA AutoPay (Begin)
+1/6/23,,TOWNHOME VILLAGE FIRST TECH FCU,,,Wilshire:HOA AutoPay,New John Checking,-$168.74
+2/1/23,,TOWNHOME VILLAGE FIRST TECH FCU,,,Wilshire:HOA AutoPay,New John Checking,-$587.10
+3/1/23,,TOWNHOME VILLAGE FIRST TECH FCU,,,Wilshire:HOA AutoPay,New John Checking,-$587.10
+Wilshire:HOA AutoPay Total,"","","","","","","-$1,342.94"
+Wilshire:Taxes (Begin)
+2/6/23,,WASHINGTON COUNT FIRST TECH FCU,,,Wilshire:Taxes,New John Checking,"-$1,167.25"
+Wilshire:Taxes Total,"","","","","","","-$1,167.25"
